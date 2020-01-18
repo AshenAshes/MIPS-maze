@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Logic\project\maze3\top.ncd
+OUTFILE=C:\Logic\project\maze3\top.bit
+FAMILY=Kintex7
+PART=xc7k160t-1ffg676
+WORKINGDIR=C:\Logic\project\maze3
+LICENSE=WebPack
+USER_INFO=__0_0_0

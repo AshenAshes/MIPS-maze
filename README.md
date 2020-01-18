@@ -1,2 +1,4 @@
 # MIPS-maze
-FPGA based maze game
+This is my Logic and Computer Design course project, a simple FPGA maze game.
+
+My collaborator is Yang Jiani, Fang Taoran and Xie Kaida.

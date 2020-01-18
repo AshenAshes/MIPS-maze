@@ -1,0 +1,22 @@
+INFO:sim:172 - Generating IP...
+WARNING:coreutil - couldn't open "D:/aaaaooooo/ise
+   work/maze/ipcore_dir/tmp/_cg/_dbg/xil_987.out": no such file or directory
+       while executing
+   "open ${outFileName} r"
+       (procedure "::xilinx::GeneratorUtils::readOutFile" line 17)
+       invoked from within
+   "::xilinx::GeneratorUtils::readOutFile $componentInstanceID $outFileName"
+       (procedure "main" line 40)
+       invoked from within
+   "main $argc $argv"
+       invoked from within
+   "return [main $argc $argv]"
+       (file
+   "D:\ise\14.7\ISE_DS\ISE\coregen\repository\xilinx.com\generators\customizatio
+   n_generator_v1_0.tcl" line 58)ERROR:sim - Unable to evaluate Tcl file:
+   D:\ise\14.7\ISE_DS\ISE\coregen\repository\xilinx.com\generators\customization
+   _generator_v1_0.tcl
+ERROR:sim - Failed executing Tcl generator.
+ERROR:sim - Failed to generate 'beginpic'.  Failed executing Tcl generator.
+
+Wrote CGP file for project 'beginpic'.
